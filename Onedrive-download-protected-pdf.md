@@ -28,7 +28,7 @@ Tutorial :
 
 script you can paste at the end of copy as powershell : 
 
-`\
+`
 
 -OutFile "$env:USERPROFILE\Downloads\document.pdf"
 
