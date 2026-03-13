@@ -28,7 +28,8 @@ Tutorial :
 
 script you can paste at the end of copy as powershell : 
 
-`__
+`\
+
 -OutFile "$env:USERPROFILE\Downloads\document.pdf"
 
 10. copy it all (the document.pdf part can be changed to whatever name for the doc you want, JUST DON'T CHANGE THE .pdf PART)
